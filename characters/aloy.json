@@ -1,1 +1,1 @@
-{"char_id":"612f1f16a73e7789e108ffe7","constellations":[10,0,0,0,0,0,0],"builds":[{"weapons":[],"artifacts":[{"_id":"60b6e9c91ec85acb4193cdc2","activation_number":4}],"count":9}],"teams":[],"total":9}
+{"char_id":"612f1f16a73e7789e108ffe7","constellations":[15,0,0,0,0,0,0],"builds":[{"weapons":[{"_id":"612f4118a73e7789e10f50bf","count":5},{"_id":"60b6ea101ec85acb4193ed15","count":3}],"artifacts":[{"_id":"60b6e9c91ec85acb4193cdc2","activation_number":4}],"count":13}],"teams":[],"total":13}
