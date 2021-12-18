@@ -1,1 +1,1 @@
-{"weaponId":"60b6f23a1ec85acb4197645e","count":517,"typeTotal":180018,"abyss":{"count":146,"winCount":118,"avgStar":2.7465753424657535,"typeTotal":255566},"characters":[{"characterId":"60b6eda01ec85acb41954f29","count":8},{"characterId":"60b6ede91ec85acb41957239","count":6}]}
+{"_id":"60b6f23a1ec85acb4197645e","count":517,"typeTotal":180018,"abyssCount":118,"abyssTypeTotal":221951,"characters":[{"_id":"60b6eda01ec85acb41954f29","count":8},{"_id":"60b6ede91ec85acb41957239","count":6}]}
